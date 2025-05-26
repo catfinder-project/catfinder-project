@@ -1,0 +1,7 @@
+bs4
+aiohttp
+colored
+pandas
+tqdm
+urllib3
+simple-term-menu
