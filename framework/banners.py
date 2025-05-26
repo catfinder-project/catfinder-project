@@ -18,7 +18,6 @@ _|        _|_|_|    {color}    _|  {reset}     {background}{bgcolor}   {version}
 _|        _|        {color}  _|    {reset}     {background}{bgcolor}   modules: {modules}  {reset}
   _|_|_|  _|        {color}_|_|_|_|{reset}     {background}{bgcolor}  by HotDrify  {reset}
                               
-{background}{bgcolor} THIS IS NOT A RELEASED VERSION! {reset}
 """
 
 
