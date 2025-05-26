@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/catfinder-project/catfinder/refs/heads/main/catfinder.jpg">
+    <img src="https://raw.githubusercontent.com/catfinder-project/catfinder/refs/heads/master/catfinder.jpg">
     <h1>🧶 catfinder framework</h1>
     <p>It is osint tool.</p>
 </div>
