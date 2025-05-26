@@ -46,7 +46,7 @@ def view_file(filename):
                        (1 if len(lines) % page_size else 0))
 
         while True:
-            os.system("clear")
+            os.system('cls' if os.name == 'nt' else 'clear')
             print()
 
             start = page * page_size
