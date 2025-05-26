@@ -1,0 +1,35 @@
+{
+  "github": {
+    "errorType": "message",
+    "method": "GET",
+    "url": "https://api.github.com/search/users?q={}+in:email",
+    "message": {
+      "error": "\"total_count\": 0"
+    }
+  },
+  "protonmail": {
+    "errorType": "message",
+    "method": "GET",
+    "url": "https://api.protonmail.ch/pks/lookup?op=index&search={}",
+    "message": {
+      "error": "info:1:0"
+    }
+  },
+  "replit": {
+    "errorType": "message",
+    "method": "POST",
+    "url": "https://replit.com/data/user/exists",
+    "message": {
+      "error": "'exists': false"
+    },
+    "headers": {
+      "Accept": "application/json",
+      "Accept-Language": "fr,fr-FR;q=0.8,en-US;q=0.5,en;q=0.3",
+      "content-type": "application/json",
+      "x-requested-with": "XMLHttpRequest",
+      "Origin": "https://replit.com",
+      "Connection": "keep-alive"
+    },
+    "data": "'email': '{}'"
+  },
+}

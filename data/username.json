@@ -1,0 +1,292 @@
+{
+  "vk": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://vk.com/{}",
+  "api": "https://api.vk.com/method/users.get?user_ids={}&fields=activites,about,bdate,can_write_private_message,can_write_private_message,city,domain,followers_count,last_seen,relation,verified,wall_default&access_token=vk1.a.YIZ6idNZQbNDlGs3xaBWPjzijb-W_8f8G0VIcqQMh0-k0GAwvkoSdMA4envqtEE58wKYcxKpCxUNB1B3msWnSfbkdP1dRkBvXYFSmbpp8Yw-VYijYVyXh2FpKA4VMk5IIA7RXxNp07Z2WqM5h3eQB7isn9IyQ10vQOf8HU_o6lixc6AEfcIDq-G2pZJ6r4Lj47z9VerzQyH1sCuLFy9txw&v=5.131"
+  },
+  "2Dimensions": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://2Dimensions.com/a/{}"
+  },
+  "7cups": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://www.7cups.com/@{}"
+  },
+  "9gag": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://www.9gag.com/u/{}"
+  },
+  "About.me": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://about.me/{}"
+  },
+  "AdmireMe.Vip": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://admireme.vip/{}"
+  },
+  "AirBit": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://airbit.com/{}"
+  },
+  "AirLines": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://www.airliners.net/user/{}/profile/photos"
+  },
+  "Alik.cz": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://www.alik.cz/u/{}"
+  },
+  "amino": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://aminoapps.com/u/{}"
+  },
+  "Apple Developer": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://developer.apple.com/forums/profile/{}"
+  },
+  "Ask Fedora": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://ask.fedoraproject.org/u/{}",
+    "api": "https://src.fedoraproject.org/api/0/user/{}"
+  },
+  "Bandcamp": {
+    "errorType": "code",
+    "method": "GET",
+    "url": "https://www.bandcamp.com/{}"
+  },
+  "Behance": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.behance.net/{}"
+  },
+  "Bezuzyteczna": {
+   "errorType": "code",
+    "method": "GET",
+    "url": "https://bezuzyteczna.pl/uzytkownicy/{}"
+  },
+  "BiggerPockets": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.biggerpockets.com/users/{}"
+  },
+  "Bikemap": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.bikemap.net/en/u/{}/routes/created/"
+  },
+  "BitBucket": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://bitbucket.org/{}/"
+  },
+  "Bitwarden Forum": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://community.bitwarden.com/u/{}/summary"
+  },
+  "Blogger": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://{}.blogspot.com"
+  },
+  "BongaCams": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://pt.bongacams.com/profile/{}"
+  },
+  "Bookcrossing": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.bookcrossing.com/mybookshelf/{}/"
+  },
+  "BraveCommunity": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://community.brave.com/u/{}/"
+  },
+  "BuyMeACoffee": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://buymeacoff.ee/{}"
+  },
+  "BuzzFeed": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://buzzfeed.com/{}"
+  },
+  "CNET": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.cnet.com/profiles/{}/"
+  },
+  "CTAN": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://ctan.org/author/{}"
+  },
+  "Caddy Community": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://caddy.community/u/{}/summary"
+  },
+  "Car Talk Community": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://community.cartalk.com/u/{}/summary"
+  },
+  "Championat": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.championat.com/user/{}"
+  },
+   "Chaos": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://chaos.social/@{}"
+  },
+  "ChaturBate": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://chaturbate.com/{}"
+  },
+  "Choice Community": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://choice.community/u/{}/summary"
+  },
+  "Clapper": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://clapperapp.com/{}"
+  },
+  "CloudflareCommunity": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://community.cloudflare.com/u/{}"
+  },
+  "Clubhouse": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.clubhouse.com/@{}"
+  },
+  "Codeforces": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://codeforces.com/profile/{}"
+  },
+  "Codepen": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://codepen.io/{}"
+  },
+  "Coderwall": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://coderwall.com/{}"
+  },
+ "Codewars": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.codewars.com/users/{}"
+  },
+  "Coinvote": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://coinvote.cc/profile/{}"
+  },
+  "ColourLovers": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.colourlovers.com/lover/{}"
+  },
+  "Coroflot": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.coroflot.com/{}"
+  },
+  "Crevado": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://{}.crevado.com"
+  },
+  "Crowdin": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://crowdin.com/profile/{}"
+  },
+  "Cryptomator Forum": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://community.cryptomator.org/u/{}"
+  },
+  "DEV Community": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://dev.to/{}"
+  },
+  "DailyMotion": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.dailymotion.com/{}"
+  },
+  "DeviantART": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://{}.deviantart.com"
+  },
+  "Discogs": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.discogs.com/user/{}"
+  },
+  "Discuss.Elastic.co": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://discuss.elastic.co/u/{}"
+  },
+  "Disqus": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://disqus.com/{}"
+  },
+  "Docker Hub": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://hub.docker.com/u/{}/",
+  "api": "https://hub.docker.com/v2/users/{}/"
+  },
+  "Imgur": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://imgur.com/user/{}",
+  "api": "https://api.imgur.com/account/v1/accounts/{}?client_id=546c25a59c58ad7"
+  },
+  "pr0gramm": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://pr0gramm.com/user/{}",
+  "api": "https://pr0gramm.com/api/profile/info?name={}"
+  },
+  "Wattpad": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://www.wattpad.com/user/{}"
+  },
+  "WebNode": {
+  "errorType": "code",
+  "method": "GET",
+  "url": "https://{}.webnode.cz/"
+  }
+}

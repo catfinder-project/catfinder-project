@@ -1,0 +1,7 @@
+{
+   "formats": [
+       "y9{username}",
+       "{0..1000}{username}",
+       "{username}{0..1000}"
+   ]
+}
